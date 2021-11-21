@@ -48,10 +48,11 @@ else:
             if error_count == 1:
                 print(f"{main_message}\n")
                 print("Incorrect password. We are trying with another way. Don't worry. Please don't trun off it.")
-
+'''
 time.sleep(20)
 os.system("cls || clear")
 the_center_text = "\nSorry. Try again with another way or another language."
 center = the_center_text.center(20)
 print(center)
+'''
 #
